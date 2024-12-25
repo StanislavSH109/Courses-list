@@ -1,0 +1,34 @@
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 20px;
+}
+
+.card {
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+  background-color: rgb(145, 144, 144);
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 1px 1px 6px 1px black;
+  min-width: 600px;
+  width: 400px;
+  cursor: pointer;
+}
+
+.card__title {
+  font-size: 20px;
+  color: azure;
+  font-weight: bold;
+}
+
+.card__duration-course span {
+  font-weight: bold;
+}
+
+.card__empty {
+  color: rgb(216, 212, 212);
+  opacity: 0.65;
+}
