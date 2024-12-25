@@ -35,6 +35,6 @@ npm run lint
 ```
 <p>
 <a href="https://ibb.co/X3c52Rw">
-<img src="https://i.ibb.co/CMR91Gr/Screenshot-1.jpg" alt="Screenshot-1" border="0">
+<img src="https://i.ibb.co/CMR91Gr/Screenshot-1.jpg" alt="Screenshot-1" border="0" width="100%">
 </a>
 </p>
